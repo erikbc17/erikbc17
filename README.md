@@ -15,9 +15,9 @@ I'm a passionate graduate student in Computer Science at Arizona State Universit
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <h3>Arizona State University, Tempe, AZ</h3>
-    <p><b>Master of Science (MS) in Computer Science</b> (GPA: 3.7/4.0)</p>
+    <p><b>           Master of Science (MS) in Computer Science</b> (GPA: 3.7/4.0)</p>
     <p><i>Expected Graduation: Dec. 2025</i></p>
-    <p><b>Bachelor of Science in Engineering (BSE) in Mechanical Engineering</b> (Cum Laude)</p>
+    <p><b>           Bachelor of Science in Engineering (BSE) in Mechanical Engineering</b> (Cum Laude)</p>
     <p><i>Graduation: 2023</i></p>
   </div>
   <div>
