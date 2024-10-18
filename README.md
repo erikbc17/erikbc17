@@ -1,7 +1,5 @@
 # 👋 Hello! My name is Erik Barraza!
 
-<img align="right" src="https://github.com/erikbc17/erikcordova/blob/main/1687323079470.jpg?raw=true" alt="Erik Barraza" width="150" style="border-radius: 50%; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);"/>  
-
 I'm a passionate graduate student in Computer Science at Arizona State University, excited to explore new opportunities in 2025! With a background in Mechanical Engineering and a deep interest in software engineering, AI HW/SW, and robotics, I'm eager to apply my skills in impactful projects and roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erikbc) 
