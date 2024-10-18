@@ -3,7 +3,9 @@
 I'm a passionate graduate student in Computer Science at Arizona State University, excited to explore new opportunities in 2025! With a background in Mechanical Engineering and a deep interest in software engineering, AI HW/SW, and robotics, I'm eager to apply my skills in impactful projects and roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erikbc) 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:erikangelbc@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:erikangelbc@gmail.com) 
+[![Resume](https://img.shields.io/badge/Resume-%23333.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/17434767/Resume_BC_Erik-Angel2.pdf)
+
 
 ###  Fun Fact
 > I hold a bachelor's degree in Mechanical Engineering from Arizona State University, blending technical knowledge with hands-on problem-solving skills in software engineering, AI, and robotics to build innovative and impactful solutions.
