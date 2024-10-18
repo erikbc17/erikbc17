@@ -7,7 +7,7 @@ I'm a passionate graduate student in Computer Science at Arizona State Universit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erikbc) 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:erikangelbc@gmail.com)
 
-### 🎓 Fun Fact
+###  Fun Fact
 > I hold a bachelor's degree in Mechanical Engineering from Arizona State University, blending technical knowledge with hands-on problem-solving skills in software engineering, AI, and robotics to build innovative and impactful solutions.
 
 ## 🎓 Education
@@ -15,9 +15,9 @@ I'm a passionate graduate student in Computer Science at Arizona State Universit
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <h3>Arizona State University, Tempe, AZ</h3>
-    <p><b>           Master of Science (MS) in Computer Science</b> (GPA: 3.7/4.0)</p>
+    <p><b>Master of Science (MS) in Computer Science</b> (GPA: 3.7/4.0)</p>
     <p><i>Expected Graduation: Dec. 2025</i></p>
-    <p><b>           Bachelor of Science in Engineering (BSE) in Mechanical Engineering</b> (Cum Laude)</p>
+    <p><b>Bachelor of Science in Engineering (BSE) in Mechanical Engineering</b> (Cum Laude)</p>
     <p><i>Graduation: 2023</i></p>
   </div>
   <div>
